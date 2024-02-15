@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<project name="helloworld" default="info">
+<target name="info">
+<echo>hello world ant java</echo>
+</target>
+</project>
